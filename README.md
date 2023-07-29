@@ -1,9 +1,9 @@
 # eBook Reader 電子書閱讀器
-**_透過簡體繁體字轉換、橫式書寫轉直式書寫的排版形式、以及字型樣式、模式等多功能調整，即使是簡單的TXT文字檔，也能營造出實體書的感受。_**
+**_結合簡繁體字轉換功能、直式書寫的排版形式以及字型樣式等多功能調整，來營造出實體書的感受。_**
 
 ## 應用程式預覽（Preview of Application）
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/19615334-b41d-486d-9675-57a8fd5183d7">
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/69b9c109-4710-43eb-b676-bbca97fa6a9b">
+<img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/508da8e2-571b-489e-b555-9a0140d77cb6">
+<img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/5e0babe4-4679-4643-aa47-29eaae9ad23a">
 
 ## 應用程式功能特色（Function of Application）
 - *夜間模式*
@@ -47,21 +47,23 @@
 | 移至上一頁 |（方向鍵上、右）|
 
 ## 應用程式介面（Usage of Application）
-> **日間(夜間)模式**
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/69b9c109-4710-43eb-b676-bbca97fa6a9b">
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/386920ab-61eb-4b8d-9ff7-0b4fb859b427">  
+> **日間模式、夜間模式**
+> 
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/72741b76-78e9-4607-99bf-35abad1f53d3">
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/d56f1997-90d5-423a-8579-20d9c936a147">  
 
   
 > **書籤管理、移動工具**：
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/a53817c8-c7c9-4d9e-94e5-b6d7414b95c4">
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/ef7da8fe-ebcc-4cec-b469-a47a47e63a2e">
+>
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/ce7e7894-5097-4c53-beaa-f1af46225cd5">
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/7a899abe-0e65-4769-849e-993861c0348e">
 
 
-  
 > **字體大小、樣式、模式調整**：
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/9052cd73-d7f6-4bf2-b0ee-b6ea789cfb1c">
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/afb31ad5-5c5d-4199-bfa4-cc959a86e5da">
-<img width="500" alt="front" src="https://github.com/ben03181574/Java_EBookReader/assets/61927641/0599f043-d106-470c-8fbb-7a85598a3f76">
+> 
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/1b9fb6fc-3908-4d48-9c13-0cfdf389573b">
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/0da2ecde-0f8b-4a37-9a45-9b26dd70bf44">
+> <img width="500" alt="front" src="https://github.com/ben03181574/eBook-Reader/assets/61927641/a46872cb-e1a3-40f6-a108-2b25909ac128">
 
 
 
